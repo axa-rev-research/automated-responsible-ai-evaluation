@@ -1,0 +1,5 @@
+Demographic Parity Difference is measured as Demographic Parity Difference:  0.28890543559195836
+
+Exponentiated Gradient with DemographicParity constraint is applied and the post-mitigation performance is measured as 
+Test performance (mitigated): Accuracy: 0.71875, Precision: 0.72973, F1 Score: 0.80000, Recall: 0.88525
+Demographic Parity Difference (mitigated):  0.1355174981384959

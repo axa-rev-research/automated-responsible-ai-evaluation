@@ -1,0 +1,5 @@
+Equalized Odds Difference is measured as  0.011526788382003716
+
+Threshold Optimizer with equalized_odds constraint is applied and the post-mitigation performance is measured as 
+Mitigated model performance: Accuracy: 0.60529, Precision: 0.09728, F1 Score: 0.16778, Recall: 0.60948
+Equalized Odds Difference:  0.00881676128173281

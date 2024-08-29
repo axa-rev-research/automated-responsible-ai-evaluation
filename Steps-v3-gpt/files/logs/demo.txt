@@ -1,0 +1,6 @@
+Demographic Parity Difference is measured as Demographic Parity Difference: 0.28891
+
+Expontentiated Gradient with Equalized Odds constraint is applied and the post-mitigation performance is measured as 
+Mitigated model test performance: Accuracy: 0.72917, Precision: 0.74648, F1 Score: 0.80303, Recall: 0.86885
+Demographic Parity Difference (Mitigated): 0.04095
+

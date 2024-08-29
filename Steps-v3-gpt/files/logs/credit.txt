@@ -1,0 +1,7 @@
+Demographic Parity Difference is measured as Demographic Parity Difference: 0.19181
+
+Threshold Optimizer with demographic_parity constraint is applied and the post-mitigation performance is measured as 
+Model performance after mitigation:
+Accuracy: 0.67143, Precision: 0.66165, F1 Score: 0.65672, Recall: 0.65185
+Demographic Parity Difference after mitigation: 0.06959
+

@@ -1,0 +1,10 @@
+Equalized Odds Difference is measured as Equalized Odds Difference for Gender:  0.011526788382003716
+
+Threshold Optimizer with equalized_odds constraint is applied and the post-mitigation performance is measured as 
+Mitigated model performance:
+Accuracy: 0.60640
+Precision: 0.09783
+F1 Score: 0.16869
+Recall: 0.61174
+Equalized Odds Difference (Mitigated):  0.008040970158250893
+

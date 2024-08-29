@@ -1,0 +1,5 @@
+Equalized Odds Difference is measured as Equalized Odds Difference:  0.28688524590163933
+
+Exponentiated Gradient with Equalized Odds constraint is applied and the post-mitigation performance is measured as 
+Mitigated test performance: Accuracy: 0.63319, Precision: 0.67544, F1 Score: 0.64706, Recall: 0.62097
+Mitigated Equalized Odds Difference:  0.21497764530551416

@@ -1,0 +1,24 @@
+{
+    "Q1": {
+      "question": "Is the difference in base rates between protected groups > 5%?",
+      "choices": {
+        "YES": {"result": "Q2"},
+        "NO": {"result": "Q3"}
+      }
+    },
+    "Q2": {
+      "question": "Do all protected groups have > 400 samples? Consider the sample sizes of each protected group.",
+      "choices": {
+        "YES": {"result": "Use Equalized Odds Difference"},
+        "NO": {"result": "Use Demographic Parity Difference"}
+      }
+    },
+    "Q3": {
+      "question": "Is the sample size ratio < 1.5?",
+      "choices": {
+        "YES": {"result": "Use Equalized Odds Difference"},
+        "NO": {"result": "Use Demographic Parity Difference"}
+      }
+    }
+  }
+  

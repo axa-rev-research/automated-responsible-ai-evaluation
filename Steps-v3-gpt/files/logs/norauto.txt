@@ -1,0 +1,6 @@
+Equalized Odds Difference is measured as Equalized Odds Difference for 'Male': 0.28689
+
+Expontentiated Gradient with Equalized Odds constraint is applied and the post-mitigation performance is measured as 
+Mitigated model performance: Accuracy; 0.62882, Precision: 0.68224, F1 Score:, 0.63203, Recall: 0.58871
+Equalized Odds Difference for 'Male' after mitigation: 0.22504
+
