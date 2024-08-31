@@ -1,0 +1,5 @@
+transformers==4.36.2
+bitsandbytes==0.41.3
+torch==2.1.2
+fairlearn==0.9.0
+openai==1.3.7
